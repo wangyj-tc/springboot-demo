@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: dell
+Build-Jdk: 1.8.0_111
+Implementation-Title: springboot-web
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.suxin
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
