@@ -1,0 +1,10 @@
+server:
+  port: 8887
+  
+spring:
+  mvc:
+    view:
+      suffix: .jsp
+      prefix: WEB-INF
+
+myname.wyj: wyj 
